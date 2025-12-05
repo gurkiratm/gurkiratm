@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Gurkirat Singh 👋</h1>
 
 ## 🚀 About Me
-Aspiring **DevOps Engineer** focused on automation, IaC, and cloud-native systems.  
-Hands-on with **Linux, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, and AWS**.  
-I enjoy building automated, scalable environments through hands-on labs and real projects.
+I like understanding how things work and building projects that teach me something new. I enjoy exploring tools, trying out ideas, and improving my skills as I go.
+
+I’m at my best when I’m experimenting with new tech, automating small tasks, or learning from people who enjoy creating and exploring just as much as I do. I’m not here to impress — I’m here to grow, share what I’m learning, and hopefully help someone else along the way.
+
+If you’re working on something interesting or simply want to exchange ideas, I’d be happy to connect.
 
 ## 🛠️ Tech Stack
 **☁️ Infrastructure & Cloud:**  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
